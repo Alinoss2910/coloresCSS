@@ -14,3 +14,9 @@ em {
 /* em {
     color: hsl(240, 100%, 30%);
 } */
+
+img{
+    vertical-align: text-top;
+    width: 10px;
+    height: 10px;
+}
