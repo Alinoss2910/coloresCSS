@@ -2,6 +2,7 @@ h1 {
     color: darkred;
     text-align: center;
     text-transform: uppercase;
+    text-shadow: 5px 5px 8px green;
 }
 
 p {
