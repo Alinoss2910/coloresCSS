@@ -12,6 +12,7 @@ p {
 em {
     color: #000099;
     text-decoration: underline;
+    text-transform: capitalize;
 }
 /* em {
     color: hsl(240, 100%, 30%);
