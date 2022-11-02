@@ -1,6 +1,7 @@
 h1 {
     color: darkred;
     text-align: center;
+    text-transform: uppercase;
 }
 
 p {
@@ -25,3 +26,4 @@ img{
 a {
     text-decoration: none;
 }
+
